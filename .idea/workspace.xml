@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39b11351-df86-4baf-8b26-678fcabfcda6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/conv.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/conv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/expand_mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/expand_mnist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mnist_average_darkness.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mnist_average_darkness.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mnist_loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mnist_loader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mnist_svm.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mnist_svm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/network.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/network.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/network2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/network2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/network3.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/network3.py" afterDir="false" />
-    </list>
+    <list default="true" id="39b11351-df86-4baf-8b26-678fcabfcda6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/network.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+            <state relative-caret-position="281">
+              <caret line="56" column="41" lean-forward="true" selection-start-line="56" selection-start-column="41" selection-end-line="56" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -301,8 +292,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/network.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+        <state relative-caret-position="281">
+          <caret line="56" column="41" lean-forward="true" selection-start-line="56" selection-start-column="41" selection-end-line="56" selection-end-column="41" />
         </state>
       </provider>
     </entry>
